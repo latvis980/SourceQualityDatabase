@@ -1,4 +1,4 @@
-# bot.py
+# bot.py for MBFC scraping service
 """
 MBFC Bulk Scraper — Telegram Bot Controller
 

@@ -1,4 +1,4 @@
-# supabase_writer.py
+# supabase_writer.py for MBFC scraping service
 """
 Writes scraped MBFC data to the Supabase media_credibility table.
 Uses the same schema and upsert logic as VeriFlow's SupabaseService.

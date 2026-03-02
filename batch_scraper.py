@@ -1,4 +1,4 @@
-# batch_scraper.py
+# batch_scraper.py for MBFC scraping service
 """
 Runs a batch of MBFC page scrapes concurrently.
 Processes up to CONCURRENT_PAGES pages at a time within the batch.

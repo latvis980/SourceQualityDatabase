@@ -1,4 +1,4 @@
-# logger.py
+# logger.py for MBFC scraping service
 from loguru import logger
 import sys
 

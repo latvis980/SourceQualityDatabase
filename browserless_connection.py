@@ -1,4 +1,4 @@
-# browserless_connection.py
+# browserless_connection.py for MBFC scraping service
 """
 Shared helper for connecting to Railway Browserless.
 Uses chromium.connect() for Railway, falls back to chromium.launch() locally.

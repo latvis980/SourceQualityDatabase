@@ -1,4 +1,4 @@
-# url_collector.py
+# url_collector.py for MBFC scraping service
 """
 Collects all individual source URLs from MBFC category listing pages.
 Each category page lists sources as links — we extract all of them.

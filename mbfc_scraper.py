@@ -1,4 +1,4 @@
-# mbfc_scraper.py
+# mbfc_scraper.py for MBFC scraping service
 """
 MBFC page scraper with aggressive ad blocking.
 Adapted from VeriFlow's mbfc_scraper.py.

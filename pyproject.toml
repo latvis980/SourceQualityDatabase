@@ -1,3 +1,5 @@
+# for MBFC scraping service
+
 [project]
 name = "mbfc-scraper"
 version = "0.1.0"

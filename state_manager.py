@@ -1,4 +1,4 @@
-# state_manager.py
+# state_manager.py for MBFC scraping service
 """
 Manages scraping state in a local JSON file.
 Tracks: all URLs, pending, completed, failed, current batch.
